@@ -1,6 +1,6 @@
 # 🎬 Netflix Titles Dashboard
 
-An interactive Power BI dashboard analyzing 6,000+ Netflix titles across genres, countries, and years. Built using Power BI and Excel.
+An interactive Power BI dashboard analyzing 8,000+ Netflix titles across genres, countries, and years. Built using Power BI and Excel.
 
 ## 📊 Dashboard Preview
 
@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing 6,000+ Netflix titles across genres,
 
 ## 📁 Project Files
 
-- `Netflix Titles.pbix` – Power BI file with data model, visuals, and DAX measures  
+- `Netflix titles.pbix` – Power BI file with data model, visuals, and DAX measures  
 - `netflix_titles.csv` – Raw dataset used for building the dashboard  
 - `Netflix Dashboard Image.png` – Dashboard preview image  
 
